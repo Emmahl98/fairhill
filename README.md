@@ -10,7 +10,7 @@ This is a temporary static preview gate, not server-side access control. Short p
 
 ## Hosting
 
-In repository Settings → Pages, choose **GitHub Actions** as the build source. The deployment workflow publishes only `index.html`, `robots.txt`, `.nojekyll`, and `CNAME`.
+In repository Settings → Pages, choose **Deploy from a branch**, select **main** and **/ (root)**, then click **Save**. GitHub publishes updates automatically after changes to `main`; no custom Actions workflow is needed. Keep `.nojekyll` in the root. Branch publishing serves repository files, so never commit unencrypted preview content, private submissions, or secrets. Public documentation such as this README remains accessible.
 
 Configure **fairhill-civ.com** as the custom domain in Pages. At the domain's DNS provider, add GitHub's current apex A records and optionally a `www` CNAME to `Emmahl98.github.io`. Follow GitHub's current DNS guidance, verify ownership, and enable HTTPS after DNS and certificate provisioning complete. Preserve email records.
 
