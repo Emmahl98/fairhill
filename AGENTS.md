@@ -5,3 +5,4 @@
 - Do not commit the unencrypted preview content or the password into this public repository while the development gate is active.
 - Never publish submissions from the private Google Sheet.
 - Target GitHub Pages and custom domain `fairhill-civ.com`.
+- Publish from the `main` branch at `/ (root)`. Do not reintroduce a custom deployment workflow unless the owner requests it.
