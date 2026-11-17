@@ -16,7 +16,7 @@ Configure **fairhill-civ.com** as the custom domain in Pages. At the domain's DN
 
 ## Current implementation
 
-The decrypted preview has Home, Government, Laws & treaties, The Fairhill Gazette, and Contact views. Full documents and office details still link to the existing Notion archive. The design is predominantly white, with #6fa710 green and #ff7f0a orange. All editorial images currently reuse one neutral, embedded SVG placeholder. No external image service is required. The contact form is disabled until its Google Apps Script endpoint is activated. Discord OAuth is not implemented.
+The decrypted preview has Home, Government, Laws & treaties, The Fairhill Gazette, and Contact views. Full documents and office details still link to the existing Notion archive. The design is predominantly white, with #6fa710 green and #ff7f0a orange. The homepage uses the original Fairhill town panorama with different crops, plus the original flag. Gazette cards use their corresponding issue covers. These images currently load from the existing public Notion image URLs. The contact form is disabled until its Google Apps Script endpoint is activated. Discord OAuth is not implemented.
 
 ## Updating the preview
 
@@ -34,4 +34,4 @@ Replace the shared placeholder with these owner-provided screenshots when availa
 | Gazette cards | Relevant building, event or people for each issue | Landscape 16:10 crops, with no essential details in the top-left label area |
 | Discord/community section | Group screenshot, gathering or shared build | Landscape 16:10 with people as the focal point |
 
-Screenshots around 1600–2400 pixels wide are useful. Hide HUD/chat where possible, and capture alternate crops if you can. All current imagery is intentionally marked as a placeholder. Government office pages can later use building exteriors or portraits without requiring them for this version.
+Screenshots around 1600–2400 pixels wide are useful. Hide HUD/chat where possible, and capture alternate crops if you can. The existing town imagery and Gazette covers are in place for now; owner-provided screenshots can replace the repeated panorama later. Government office pages can later use building exteriors or portraits without requiring them for this version.
