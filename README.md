@@ -35,3 +35,10 @@ Replace the shared placeholder with these owner-provided screenshots when availa
 | Discord/community section | Group screenshot, gathering or shared build | Landscape 16:10 with people as the focal point |
 
 Screenshots around 1600–2400 pixels wide are useful. Hide HUD/chat where possible, and capture alternate crops if you can. The existing town imagery and Gazette covers are in place for now; owner-provided screenshots can replace the repeated panorama later. Government office pages can later use building exteriors or portraits without requiring them for this version.
+
+## Additional sources incorporated
+
+- The official Notion Government page supplies labelled portraits of Emarile, fallen_screw, HikariiDesu and Malafly. They appear on the homepage, corresponding directory cards, and office profiles.
+- The Maps page shows the September 2026 mainland/Zorweth map, the September 2026 CivMC location map, and an explicitly historical October–November 2025 comparison.
+- CivWiki provides the June 2026 Fairhill pioneers photograph, map images and brief founding, geography and architectural background. File credits identify uploaders Enketc12 or Emarile as shown on CivWiki; attribution links and CC BY-SA 4.0 notices are included on the site. The adapted background remains under CC BY-SA 4.0.
+- Sources reviewed: https://civwiki.org/wiki/Fairhill and its linked file pages, plus the official Fairhill Notion homepage and Government page. Image URLs remain externally hosted. The unrelated blank tile images in Notion were not reused.
